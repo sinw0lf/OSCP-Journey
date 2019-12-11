@@ -21,12 +21,12 @@ I came into this course with a strong background in security, networking and sys
 
 
 ##Some useful OSCP links##
-Hack The Box OSCP Playlist <https://www.youtube.com/playlist?list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf>
-Level Up! Practical Windows Privilege Escalation - Andrew Smith <https://www.youtube.com/watch?v=PC_iMqiuIRQ&t=1513s>
-Encyclopaedia Of Windows Privilege Escalation - Brett Moore <https://www.youtube.com/watch?v=kMG8IsCohHA&t=1009s>
-Michael LaSalvia Digital Offensive OSCP series <https://www.youtube.com/playlist?list=PLlKCm0eusyjMuWGMV5jwT3aeDW0hbZa7k>
-BSides DC 2019 Sat-T2 - The journey begins: Preparing for Offensive Security <https://www.youtube.com/watch?v=LbLqV-nQN6Q>
-The Journey to Try Harder: TJnull’s Preparation Guide for PWK/OSCP <https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html>
+- Hack The Box OSCP Playlist <https://www.youtube.com/playlist?list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf>
+- Level Up! Practical Windows Privilege Escalation - Andrew Smith <https://www.youtube.com/watch?v=PC_iMqiuIRQ&t=1513s>
+- Encyclopaedia Of Windows Privilege Escalation - Brett Moore <https://www.youtube.com/watch?v=kMG8IsCohHA&t=1009s>
+- Michael LaSalvia Digital Offensive OSCP series <https://www.youtube.com/playlist?list=PLlKCm0eusyjMuWGMV5jwT3aeDW0hbZa7k>
+- BSides DC 2019 Sat-T2 - The journey begins: Preparing for Offensive Security <https://www.youtube.com/watch?v=LbLqV-nQN6Q>
+- The Journey to Try Harder: TJnull’s Preparation Guide for PWK/OSCP <https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html>
 
 
 
